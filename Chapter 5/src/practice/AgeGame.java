@@ -11,7 +11,7 @@ public class AgeGame
 	{
 		
 			int usersAge;
-			String result;
+			String result = null;
 			Scanner input = new Scanner(System.in);
 			
 			System.out.println("Please enter your age to be insulted");
@@ -53,7 +53,7 @@ public class AgeGame
 	
 			
 			
-			
+			System.out.println(result);
 	}
 
 }
