@@ -15,7 +15,7 @@ public static void main(String args[]) throws Exception
       final double MED_PRICE = 1.99;
       final double LOW_PRICE = 0.89;
       String usersChoiceString;
-   int usersChoice;
+   double usersChoice;
       double bill = 0.0;
       usersChoiceString = JOptionPane.showInputDialog(null,
          "Order please/n1 - Burger\2 - Hotdog" +
