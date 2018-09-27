@@ -6,7 +6,7 @@ package debugging;
 // Fries are 89 cents
 
 import javax.swing.JOptionPane;
-public class FixDebugFive1
+public class Debugging1
 {
    public static void main(String args[]) throws Exception
    {
