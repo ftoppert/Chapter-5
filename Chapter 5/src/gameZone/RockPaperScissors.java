@@ -12,6 +12,7 @@ public class RockPaperScissors {
 		//3- Scissors
 		
 		int userChoice;
+
 		String result = null;
 		Scanner input = new Scanner(System.in);
 		System.out.println("Rock, Paper,or  Scissors? >> ");
